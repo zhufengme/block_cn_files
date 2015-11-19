@@ -1697,8 +1697,6 @@ itaboo.info
 ithelp.ithome.com.tw
 its.caltech.edu
 itshidden.com
-itsliveradio.apple.com
-itunes.apple.com
 itweet.net
 iu45.com
 iuhrdf.org
@@ -2040,6 +2038,7 @@ monlamit.org
 morningsun.org
 movabletype.com
 moviefap.com
+moxa.com
 moztw.org
 mp3ye.eu
 mpettis.com
@@ -2462,6 +2461,7 @@ rapbull.net
 rapidgator.net
 rapidshare8.com
 rapidsharedata.com
+raspberrypi.org
 rcinet.ca
 rconversation.blogs.com
 rd.io
