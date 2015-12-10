@@ -402,6 +402,7 @@ boobstagram.com
 book.com.tw
 books.com.tw
 bookshelfporn.com
+bootstrapcdn.com
 bot.nu
 botanwang.com
 bowenpress.com
@@ -498,6 +499,7 @@ cdd.me
 cdef.org
 cdig.info
 cdjp.org
+cdn.optimizely.com
 cdn.printfriendly.com
 cdn.softlayer.net
 cdn.sstatic.net
