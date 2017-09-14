@@ -3661,4 +3661,5 @@ zuobiao.me
 zuola.com
 zvereff.com
 zyzc9.com
-
+bstatic.com
+edgecastcdn.net
