@@ -1190,6 +1190,7 @@ getchu.com
 getcloudapp.com
 getcomposer.org
 get-digital-help.com
+getflix.com.au
 getfoxyproxy.org
 getfreedur.com
 getgom.com
@@ -2183,6 +2184,8 @@ noobbox.com
 norbulingka.org
 nordstrom.com
 nordstromimage.com
+nordvpn.com
+nordvpn.net
 notes.alexdong.com
 novelasia.com
 nownews.com
@@ -3668,6 +3671,7 @@ zlib.net
 zmw.cn
 zomobo.net
 zonaeuropa.com
+zoom.us
 zootool.com
 zoozle.net
 zozotown.com
