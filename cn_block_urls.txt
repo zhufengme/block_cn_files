@@ -192,6 +192,7 @@ archlinuxarm.org
 arctosia.com
 areca-backup.org
 ar.hao123.com
+arkoselabs.com
 arlingtoncemetery.mil
 army.mil
 art-or-porn.com
@@ -754,6 +755,7 @@ daxa.cn
 dayaarmongol.ning.com
 daylife.com
 dbanotes.net
+db.tt
 dcard.tw
 ddc.com.tw
 deck.ly
@@ -841,9 +843,17 @@ drepung.org
 drewolanoff.com
 drgan.net
 dribbble.com
+dropboxapi.com
+dropboxbusiness.com
+dropboxcaptcha.com
 dropbox.com
+dropbox-dns.com
+dropboxforum.com
+dropboxforums.com
+dropboxinsiders.com
+dropboxmail.com
+dropboxpartners.com
 dropboxstatic.com
-dropboxusercontent.com
 droplr.com
 drsunacademy.com
 drtuber.com
@@ -1193,6 +1203,7 @@ getchu.com
 getcloudapp.com
 getcomposer.org
 get-digital-help.com
+getdropbox.com
 getflix.com.au
 getfoxyproxy.org
 getfreedur.com
@@ -3641,6 +3652,7 @@ zattoo.com
 zaurus.org.uk
 zdassets.com
 zdnet.com.tw
+zendesk.com
 zengjinyan.org
 zensur.freerk.com
 zeutch.com
