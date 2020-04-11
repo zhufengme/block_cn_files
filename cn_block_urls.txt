@@ -622,6 +622,7 @@ ch.shvoong.com
 chubun.com
 chuizi.net
 circlethebayfortibet.org
+citizenlab.ca
 citizenlab.org
 citizenscommission.hk
 citizensradio.org
@@ -703,6 +704,7 @@ crd-net.org
 creaders.net
 crossthewall.net
 crowy.net
+cryptographyengineering.com
 csdparty.com
 c-spanvideo.org
 css.pixnet.in
