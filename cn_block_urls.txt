@@ -3482,6 +3482,7 @@ wingamestore.com
 winwhispers.info
 wiredbytes.com
 wiredpen.com
+wireguard.com
 wireshark.org
 wisdompubs.org
 wisevid.com
