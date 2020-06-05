@@ -177,7 +177,6 @@ app.box.com
 app.heywire.com
 app.hkatvnews.com
 appleactionews.com
-apple.com
 appledaily.com
 appledaily.com.hk
 appledaily.com.tw
