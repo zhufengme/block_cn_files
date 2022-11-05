@@ -2284,6 +2284,7 @@ open.com.hk
 opendemocracy.net
 openid.net
 openleaks.org
+openstreetmap.org
 openvpn.net
 openwebster.com
 openwrt.org
