@@ -1,5 +1,3 @@
-
-=======
 0rz.tw
 0to255.com
 1024.inc.gs
@@ -18,7 +16,6 @@
 1998cdp.org
 1-apple.com.tw
 1bao.org
->>>>>>> 1e932aa1b6747f09d2865791b03be68716990219
 1eew.com
 1pondo.tv
 2000fun.com
@@ -1502,7 +1499,6 @@ hbg.com
 hbogo.com
 h-china.org
 hdtvb.net
-<<<<<<< HEAD
 heartyit.com
 heatsale.com
 hecaitou.net
